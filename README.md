@@ -13,10 +13,6 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/kristiianbaltov/#)
-[![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/kristiianbaltov/#)
 - [Email] (baltov5678@gmail.com)
 
 
