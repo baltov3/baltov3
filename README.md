@@ -2,7 +2,7 @@
 
 ## ℹ️ About Me
 
-## I am 19 years old, I graduated from Mathematics High School with a profile in software and hardware sciences!
+## I am 19 years old, I graduated from Mathematics High School with a profile in software and hardware sciences and now I am a first-year student with an informatics profile!
 
 - 🔭 Check out my VS Code course: [SoftUni][https://softuni.bg/]!
 - 🌱 I’m currently learning everything 🤣
